@@ -1,1 +1,1 @@
-const header = 'header file file'
+const header = 'header'
